@@ -1,0 +1,11 @@
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.deps.json
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.runtimeconfig.json
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.runtimeconfig.dev.json
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.dll
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.pdb
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.AssemblyInfoInputs.cache
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.AssemblyInfo.cs
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.dll
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.pdb
+C:\Coders Lab\Kurs\Warsztaty\workshop_1\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.csprojAssemblyReference.cache
