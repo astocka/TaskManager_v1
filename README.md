@@ -1,5 +1,22 @@
-# Console Task Manager
+# Task Manager
 
-A console application for managing tasks.
-Functions: add, delete, show, sort, save to a file and load from a file.
- 
+Console application for managing tasks.
+
+Functions
+--
+manage tasks:
+* add
+* delete
+* show list
+* sort
+* save to a file
+* load from a file
+
+Getting started
+--
+* Get a copy of the project
+* Open solution TaskManager.sln in MS Visual Studio and start using the application
+
+Used technologies
+--
+.NET Core (Console App)
